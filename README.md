@@ -1,3 +1,2 @@
 # resume
-![Image text]
-(https://raw.githubusercontent.com/CS-H2/resume/master/resource/resume.png)
+![](https://raw.githubusercontent.com/CS-H2/resume/master/resource/resume.png)
